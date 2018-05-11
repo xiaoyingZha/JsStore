@@ -1,5 +1,5 @@
 
-/*
+/*  getStyle(el, name1[, name2[, name3 ...)
 * 目的：获取指定元素的最终计算样式
 * 参数：
 *   el DOM元素 -目标对象
